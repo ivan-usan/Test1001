@@ -1,2 +1,5 @@
-def rien():
+def something():
     pass
+
+def rien():
+    something()
